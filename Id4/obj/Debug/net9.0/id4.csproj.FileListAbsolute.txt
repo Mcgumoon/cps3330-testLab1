@@ -1,0 +1,12 @@
+/Users/ashleydavila/dotnet/vsc/Id4/bin/Debug/net9.0/id4.deps.json
+/Users/ashleydavila/dotnet/vsc/Id4/bin/Debug/net9.0/id4.dll
+/Users/ashleydavila/dotnet/vsc/Id4/bin/Debug/net9.0/id4.pdb
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.AssemblyInfoInputs.cache
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.AssemblyInfo.cs
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.csproj.CoreCompileInputs.cache
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.sourcelink.json
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.dll
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/refint/id4.dll
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/id4.pdb
+/Users/ashleydavila/dotnet/vsc/Id4/obj/Debug/net9.0/ref/id4.dll
