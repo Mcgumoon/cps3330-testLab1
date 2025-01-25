@@ -1,0 +1,21 @@
+nano .gitignore
+# Ignore build folders
+bin/
+obj/
+
+# Ignore compiled files
+*.dll
+*.pdb
+
+# Ignore Visual Studio/VS Code files
+.vscode/
+*.sln.ide
+
+# Ignore runtime config and NuGet cache
+*.runtimeconfig.json
+*.deps.json
+*.nuget.cache
+
+# Ignore system files
+.DS_Store
+
